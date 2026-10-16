@@ -5,7 +5,7 @@ We are so thankful for our members – arXiv would not be possible without their
 
 Other funding for arXiv comes from [foundations, affiliates, and sponsors](funding.md).
 
-Interested in supporting arXiv and expanding the possibilities of open science? Learn more about [arXiv's funding](funding.md) and contact us at membership@arXiv.org.
+Interested in supporting arXiv and expanding the possibilities of open science? Learn more about [arXiv's funding](funding.md) and contact us pogee.ai@arXiv.org.
 
 <div class="mkd-ordered-list-blocks" markdown="1">
 
